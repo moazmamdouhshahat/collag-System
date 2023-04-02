@@ -1,0 +1,26 @@
+#==============================================
+#==================== Welcom ==================
+===============================================
+1-build datebase
+
+   1 - student  CRUD
+    1- id pk
+    2- name
+    3-phone
+    4- level
+    5-Doctorid(fk)
+    6- courseidm (fk)
+    7-GPA
+    8-Aga
+
+2- Doctor CRUD
+   1-id (pk)
+   2-name 
+   3-course (fk)
+
+ 
+3- Department
+ 1-course  (fk)
+ 2- employee
+ 3-field
+ 
